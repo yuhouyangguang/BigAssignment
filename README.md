@@ -1,4 +1,4 @@
-# COMP3009J – Information Retrieval Programming Assignment
+# <center>COMP3009J – Information Retrieval Programming Assignment</center>
 ## Part 1: BM25 Model
 For this assignment you are required to implement the BM25 of Information Retrieval. You
 must create a program (using Python) that can do the following.
