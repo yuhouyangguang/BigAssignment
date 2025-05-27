@@ -1,7 +1,7 @@
 # <center>COMP3009J – Information Retrieval Programming Assignment</center>
 This assignment is worth 20% of the final grade for the module.  
 Due Date: Monday 27th May 2019 at 08:00  
-Before you begin, download and extract the file ``lisa.zip’’ from Moodle. This contains several
+Before you begin, download and extract the file “lisa.zip” from Moodle. This contains several
 files that you will need to complete this assignment.  
 ## Part 1: BM25 Model
 For this assignment you are required to implement the BM25 of Information Retrieval. You
